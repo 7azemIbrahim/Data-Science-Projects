@@ -27,9 +27,8 @@ Using Python's data analysis and visualization libraries, the project explores u
 
 ```text
 OIBSIP/
-└── Data Science/
-    └── Task-2-Unemployment-Analysis/
-        ├── README.md
+└── DataScience-Task2-UnemplymentAnalysiswithPython/
+    └── ├── README.md
         ├── unemployment_analysis.ipynb
         └── data/
             └── unemployment.csv
