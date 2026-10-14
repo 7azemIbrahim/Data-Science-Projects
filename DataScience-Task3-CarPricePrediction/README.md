@@ -37,7 +37,7 @@ OIBSIP/
         ├── README.md
         ├── Car_Price_Prediction_with_Machine_Learning.ipynb
         └── data/
-            └── car_data.csv
+            └── car data.csv
 ```
 
 *Note: Update the folder structure and dataset filename to match your actual project files.*
