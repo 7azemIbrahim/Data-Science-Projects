@@ -35,9 +35,9 @@ OIBSIP/
 └── Data Science/
     └── Task-3-Car-Price-Prediction/
         ├── README.md
-        ├── Car Price Prediction with Machine Learning.ipynb
+        ├── Car_Price_Prediction_with_Machine_Learning.ipynb
         └── data/
-            └── car data.csv
+            └── car_data.csv
 ```
 
 *Note: Update the folder structure and dataset filename to match your actual project files.*
